@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071377923936",
+    "firebase_url": "https://akacademy-51efa.firebaseio.com",
+    "project_id": "akacademy-51efa",
+    "storage_bucket": "akacademy-51efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071377923936:android:1ab4016de0722c3eb22805",
+        "android_client_info": {
+          "package_name": "com.example.akacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071377923936-7nqtc6oojji87c4tkur3ea46qnh398jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDuak4XcH7DER1yDoxisn3dmHyUAQPXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071377923936-7nqtc6oojji87c4tkur3ea46qnh398jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

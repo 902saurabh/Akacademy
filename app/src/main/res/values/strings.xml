@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Akacademy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="option1">(a)</string>
+    <string name="option2">(b)</string>
+    <string name="option3">(c)</string>
+    <string name="option4">(d)</string>
+
+</resources>
